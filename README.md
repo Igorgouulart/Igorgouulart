@@ -70,7 +70,7 @@ Projeto focado em boas práticas de desenvolvimento Back-end utilizando Spring B
 📧 Email: igor.nogueiragoulart@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/igorgouulart
+[https://linkedin.com/in/igorgouulart](https://www.linkedin.com/in/igor-nogueira-goulart-779962293/)
 
 🐙 GitHub:
 https://github.com/igorgouulart
