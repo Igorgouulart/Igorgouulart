@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**Igorgouulart/Igorgouulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Olá, eu sou Igor Nogueira Goulart 👋
 
 🎓 Estudante de Ciência da Computação (4º período)
