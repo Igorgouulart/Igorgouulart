@@ -64,11 +64,6 @@ Aplicação para controle e cálculo automático de horas trabalhadas.
 
 Projeto focado em boas práticas de desenvolvimento Back-end utilizando Spring Boot.
 
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorgouulart&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgouulart&layout=compact&theme=tokyonight)
 
 ## Contato
 
