@@ -53,7 +53,7 @@ Sistema de gestão e controle de acesso para clubes e ambientes privados.
 - React
 - Next.js
 - TypeScript
-- Banco de Dados Relacional
+- Postgree SQL
 - Controle de acesso e registro de operações
 
 ### ⏱️ Sistema de Banco de Horas
